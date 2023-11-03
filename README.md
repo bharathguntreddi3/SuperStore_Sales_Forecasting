@@ -8,7 +8,7 @@ The "SuperStore Sales Dashboard with Live Forecasting" is a data analytics and v
 - [Objective](#objective)
 - [Dashboard/Forecast Preview](#dashboard-preview)
 - [Features](#features)
-- [data Analysis](#data-analysis)
+- [Data Analysis](#data-analysis)
 - [sales Forecasting](#sales-forecasting)
 - [Data Sources](#data-sources)
 - [How to Use](#how-to-use)
@@ -25,11 +25,11 @@ The primary objective of this project is to contribute to the success of a busin
 <p><a href="https://app.powerbi.com/links/3T9wF50axZ?ctid=63b5c61a-66d9-46b2-9b8d-10c275a4acac&pbi_source=linkShare">Click Here</a> to view the published interactive dashboard.</a></p>
 
 ### Features
-- **Identify KPIs:** Identifying the key performance indicators (KPIs) that are essential for understanding and optimizing the sales performance and growth of the supermarket.
+- **Identify KPIs:** Identify the key performance indicators (KPIs) that are essential for understanding and optimizing the sales performance and growth of the supermarket.
 - **Intuitive Design:** Design of an intuitive and visually appealing dashboard that allows users to easily grasp the essential sales metrics and trends.
 - **Interactive Visualization:** The dashboard includes interactive visualizations and filtering capabilities, enabling users to explore data at various levels of granularity, make comparisons, and gain a deeper understanding of sales trends.
 - **Strategic Decision-Making:** The end goal is to share valuable insights and actionable information that can drive strategic decision-making. These insights are aimed at helping the supermarket make informed choices to enhance growth, improve efficiency, and increase customer satisfaction.
-- **Recommendations:** Provide with recommendations based on data analysis and forecasting results with a 95% confidence interval. These recommendations are tailored to address specific areas of improvement and opportunities for optimizing sales performance and increase revenue.
+- **Recommendations:** Provide with recommendations based on data analysis and forecasting results with a 95% confidence interval. These recommendations are tailored to address specific areas of improvement and opportunities for optimizing sales performance and increasing revenue.
 
 ### Data Analysis
 - **Valuable Insights:** Through data analysis, we provide valuable insights to business entities regarding the effectiveness of their sales strategies. Use visualization and charts to present this information in a clear and comprehensible manner.
@@ -75,7 +75,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 
-I hope this repository helps you gain valuable insights from your sales data using SQL and RFM analysis. If you have any questions or need further assistance, please feel free to open an issue. Happy analyzing!
+I hope this repository helps you gain valuable insights from your sales data using SQL. If you have any questions or need further assistance, please feel free to open an issue. Happy analyzing!
 
 If you find this project interesting and useful, show your support by starring ⭐ the repository and sharing it with others. Let's revolutionize productivity together!
 
